@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627116018 source:/home/yakuzaki/Documents/casino/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
